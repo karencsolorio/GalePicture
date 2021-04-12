@@ -1,0 +1,10 @@
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\bin\Debug\Gale Picture.exe.config
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\bin\Debug\Gale Picture.exe
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\bin\Debug\Gale Picture.pdb
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale Picture.csprojAssemblyReference.cache
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale_Picture.Form1.resources
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale_Picture.Properties.Resources.resources
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale Picture.csproj.GenerateResource.cache
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale Picture.csproj.CoreCompileInputs.cache
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale Picture.exe
+D:\Programming Bootcamp\Assignments and Answers\Week 22 - March 1, 2021\Gale Picture\Gale Picture\obj\Debug\Gale Picture.pdb
